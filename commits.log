@@ -1,0 +1,92 @@
+commit 48704cc346a240b3a4fd6b9f1a139b9e24dfcf42
+Merge: 78006b8 83be082
+Author: PetersonSSN <sepulvedapeterson@gmail.com>
+Date:   Thu Oct 17 13:11:49 2024 +0200
+
+    Agregado las fechsa a las ul ya hechas deespues de resover el conflicto
+
+commit 78006b89c3c927866e3c74770adc33b3821e0a6c
+Author: PetersonSSN <sepulvedapeterson@gmail.com>
+Date:   Thu Oct 17 12:56:28 2024 +0200
+
+    Agregadn oestaciones del año con fecha ed inicio
+
+commit 83be08245291521398516f6850194f8a4cac03b0
+Author: PetersonSSN <sepulvedapeterson@gmail.com>
+Date:   Thu Oct 17 12:56:28 2024 +0200
+
+    Agregando las estaciones del año
+
+commit 9a3f5f51eeeaae67cf87127f7083057e897edad7
+Merge: 4ab8f88 68c7a82
+Author: PetersonSSN <sepulvedapeterson@gmail.com>
+Date:   Thu Oct 17 12:48:24 2024 +0200
+
+    resolviendo conflicto merge
+
+commit 68c7a8221e96c9a0ae68afddfaab6beb99bbf151
+Author: PetersonSSN <sepulvedapeterson@gmail.com>
+Date:   Thu Oct 17 11:28:23 2024 +0200
+
+    Agregado index js al index.html
+
+commit 4ab8f888f1225983dda8ead42eb15a567949020f
+Author: PetersonSSN <sepulvedapeterson@gmail.com>
+Date:   Thu Oct 17 11:18:56 2024 +0200
+
+    Agregando style.css al index.html
+
+commit 70dfaf36fdc5a1e414ed1edb7ffb7242ace5581d
+Author: PetersonSSN <sepulvedapeterson@gmail.com>
+Date:   Thu Oct 17 11:06:50 2024 +0200
+
+    Agregando el HMTL
+
+commit 8b90d074d4ad9899eb050c13c27c6c8e020dabf5
+Merge: 8bab7db 643eb4a
+Author: PetersonSSN <sepulvedapeterson@gmail.com>
+Date:   Thu Oct 17 11:03:15 2024 +0200
+
+    Agregando nuevo creo
+
+commit 643eb4a05556aaec91194f1a25a5f35063fc8f54
+Author: PetersonSSN <sepulvedapeterson@gmail.com>
+Date:   Thu Oct 17 10:50:46 2024 +0200
+
+    Creando index.js
+
+commit 8bab7db1f99d39d3958245a14478b360ddd0220b
+Author: PetersonSSN <sepulvedapeterson@gmail.com>
+Date:   Thu Oct 17 10:46:00 2024 +0200
+
+    Creando style.css
+
+commit 86c596ee69101073bc727986f4d38b603318de4e
+Author: PetersonSSN <sepulvedapeterson@gmail.com>
+Date:   Thu Oct 17 10:41:37 2024 +0200
+
+    Creando index.html
+
+commit 5c6754e04ce00a9665de1c7c8913bc47e6143e48
+Author: PetersonSSN <sepulvedapeterson@gmail.com>
+Date:   Wed Oct 16 13:21:50 2024 +0200
+
+    Create LICENSE new
+
+commit 9645151e280cd8210b5a5849682b17b2512828ed
+Author: PetersonSSN <sepulvedapeterson@gmail.com>
+Date:   Wed Oct 16 13:06:55 2024 +0200
+
+    Agregando massss
+
+commit d8d086a0020c7d7ac98b3aae12f8c2f0085f88a9
+Author: PetersonSSN <sepulvedapeterson@gmail.com>
+Date:   Wed Oct 16 12:48:38 2024 +0200
+
+    Agregando conetenido innicial al REDME
+
+commit 9a85b47b2c0e720a70310c4c32c5252fd353df2a
+Author: PetersonSSN <sepulvedapeterson@gmail.com>
+Date:   Wed Oct 16 12:44:18 2024 +0200
+
+    Primer commit
